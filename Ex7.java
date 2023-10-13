@@ -6,9 +6,9 @@ public class Ex7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
       
-        System.out.println("Insert the value of X");
+        System.out.println("Insert the value of X:");
         double X = sc.nextDouble();
-        System.out.println("Insert the value of Y");
+        System.out.println("Insert the value of Y:");
         double Y = sc.nextDouble();
 
         if (X > 0 && Y > 0){
