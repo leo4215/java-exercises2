@@ -17,7 +17,7 @@ public class Ex8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Insert the salary: ");
+        System.out.println("Insert the salary:");
         double tax, salary = sc.nextDouble();
 
         if (salary <= 2000.0) {
