@@ -7,7 +7,7 @@ public class Ex6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Insert a double value:");
+        System.out.println("Enter a double value:");
         double num = sc.nextDouble();
 
         if (num < 0.0 || num > 100.0) {
