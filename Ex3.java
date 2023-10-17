@@ -7,9 +7,9 @@ public class Ex3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Insert the value of A: ");
+        System.out.print("Enter the value of A: ");
         int A = sc.nextInt();
-        System.out.print("Insert the value of B: ");
+        System.out.print("Enter the value of B: ");
         int B = sc.nextInt();
 
         if (A % B == 0 || B % A == 0) {
