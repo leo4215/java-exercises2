@@ -7,7 +7,7 @@ public class Ex2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Insert an integer: ");
+        System.out.print("Enter an integer: ");
         int N = sc.nextInt();
 
         if (N % 2 == 0) {
