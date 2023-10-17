@@ -7,9 +7,9 @@ public class Ex4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Insert the game start time:");
+        System.out.println("Enter the game start time:");
         int gameStart = sc.nextInt();
-        System.out.println("Insert the game end time:");
+        System.out.println("Enter the game end time:");
         int gameEnd = sc.nextInt();
 
         int duration;
