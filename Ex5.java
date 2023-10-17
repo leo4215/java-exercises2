@@ -14,9 +14,9 @@ public class Ex5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Insert the code:");
+        System.out.println("Enter the code:");
         int code = sc.nextInt();
-        System.out.println("Insert the amount:");
+        System.out.println("Enter the amount:");
         int amount = sc.nextInt();
 
         double total;
